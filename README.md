@@ -21,7 +21,7 @@
 - `ft_atoi`
 - `ft_itoa`
 
-### 🧠 **メモリ操作**
+### 💽 **メモリ操作**
 - `ft_memset`
 - `ft_memcpy`
 - `ft_memmove`
