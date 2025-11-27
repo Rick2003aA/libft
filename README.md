@@ -17,7 +17,7 @@
 - `ft_strtrim`
 - `ft_striteri`, `ft_strmapi`
 
-### 🔢� **数値操作**
+### 🔢 **数値操作**
 - `ft_atoi`
 - `ft_itoa`
 
