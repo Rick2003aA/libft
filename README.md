@@ -6,4 +6,33 @@
 
 ## 📖作成した関数一覧
 
+### 🔤 **文字・文字列操作**
+- `ft_strlen`
+- `ft_strdup`
+- `ft_strjoin`
+- `ft_substr`
+- `ft_strchr`, `ft_strrchr`
+- `ft_strncmp`
+- `ft_split`
+- `ft_strtrim`
+- `ft_striteri`, `ft_strmapi`
+
+### 🧮 **数値操作**
+- `ft_atoi`
+- `ft_itoa`
+
+### 🧠 **メモリ操作**
+- `ft_memset`
+- `ft_memcpy`
+- `ft_memmove`
+- `ft_bzero`
+- `ft_calloc`
+- `ft_memchr`
+- `ft_memcmp`
+
+### 📝 **ファイルディスクリプタ関連**
+- `ft_putchar_fd`
+- `ft_putstr_fd`
+- `ft_putendl_fd`
+- `ft_putnbr_fd`
 
